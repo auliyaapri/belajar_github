@@ -2,4 +2,4 @@ BELAJAR GITHUB
 - Belajar Tailwind
 - Belajar ReactJS
 - Belajar Codeigniter
-
+- Photshop
