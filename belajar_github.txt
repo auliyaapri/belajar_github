@@ -3,3 +3,5 @@ BELAJAR GITHUB
 - Belajar ReactJS
 - Belajar Codeigniter
 - Photshop
+- Belajar Vue JS
+- Belajar Node JS
